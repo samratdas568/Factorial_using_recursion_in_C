@@ -1,5 +1,4 @@
 # Factorial_using_recursion_in_C
-factorial of a number using recursion in c language
 #include<stdio.h>
 int GetFactorial(int number);
  main() 
